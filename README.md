@@ -62,7 +62,7 @@ Safing provides a privacy network layer aiming to protect you from surveillance 
 #### [🎮 Windows10GamingFocus](https://github.com/DaddyMadu/Windows10GamingFocus)
 Focuses on optimizing Windows 10 for a better gaming experience.
 
-#### [🎮 Panjno on Youtube](https://www.youtube.com/channel/UCXKZHfs9sDLYV9HDuz9MLDA)
+#### [▶️ Panjno on Youtube](https://www.youtube.com/channel/UCXKZHfs9sDLYV9HDuz9MLDA)
 Cover's optimizations for specific games, hardware and operating systems and keeps you updated.
 
 ---
