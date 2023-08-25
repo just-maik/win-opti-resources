@@ -57,4 +57,7 @@ This pack includes various scripts and tools aimed at optimizing and improving t
 #### [⚙️ Optimizer](https://github.com/hellzerg/optimizer)
 Optimizer is an advanced system optimization tool that enables you to tweak and enhance various settings in Windows for improved performance and security.
 
+#### [🔩 NTLite](https://www.ntlite.com/)
+NTLite is a Windows customization tool that allows you to modify your existing Windows install or an ISO image, removing components, adding drivers, and configuring settings for a streamlined deployment.
+
 ---
