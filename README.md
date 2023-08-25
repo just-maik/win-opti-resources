@@ -9,7 +9,7 @@ This is a curated list of open-source and free tools aimed at optimizing, debloa
 #### [Windows10Debloater 💣](https://github.com/Sycnex/Windows10Debloater)
 A PowerShell script designed to debloat Windows 10.
 
-#### [O&O ShutUp10 🤫](https://www.oandoshutup10.com/)
+#### [O&O ShutUp10 🤫](https://www.oo-software.com/en/shutup10)
 Allows you to control which functions in Windows 10/11 you choose to use and how far data gets shared.
 
 #### [W4RH4WK's Debloat Windows 10 🛠️](https://github.com/W4RH4WK/Debloat-Windows-10)
