@@ -39,10 +39,10 @@ Removes pre-installed Microsoft apps like OneDrive and Gamebar.
 #### [🛡️ W10Privacy](https://www.w10privacy.de/english-home/)
 W10Privacy is a privacy-enhancing tool specifically designed for Windows 10. It provides an easy interface to tweak numerous privacy settings, helping you control the data Windows 10 sends out.
 
-#### [🛡️ Privatezilla](https://github.com/builtbybel/privatezilla)
+#### [🦖 Privatezilla](https://github.com/builtbybel/privatezilla)
 Focuses on privacy protection and allows disabling of telemetry and other settings.
 
-#### [🛡️ WPD](https://wpd.app/)
+#### [🛸 WPD](https://wpd.app/)
 WPD is a privacy-focused Windows settings dashboard that allows you to disable various telemetry aspects, manage your firewall, and control updates.
 
 #### [🐦 Blackbird](https://www.getblackbird.net/)
