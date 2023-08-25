@@ -36,4 +36,19 @@ Focuses on privacy protection and allows disabling of telemetry and other settin
 #### [Windows-Optimize-Harden-Debloat 🛠️](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat)
 Automates recommended configurations for optimizing and securing Windows 10 and 11.
 
+#### [WinDirStat 🌳](https://windirstat.net/)
+Visualizes files on selected drives making it easy to spot large caches and clean the storage.
+
+#### [TronScript 🏍](https://www.reddit.com/r/TronScript/)
+TronScript is a collection of automation scripts aimed at disinfecting and optimizing Windows systems.
+
+#### [BleachBit 🧪](https://www.bleachbit.org/)
+BleachBit is an open-source system cleaner that helps you free disk space and guard your privacy.
+
+#### [Czkawka 🔎](https://github.com/qarmin/czkawka)
+Czkawka is a multi-functional tool written in Rust that helps you find duplicates, empty folders, similar images, and more.
+
+#### [BloatyNosy 🛠️](https://github.com/builtbybel/BloatyNosy)
+BloatyNosy aims to streamline your Windows 11 experience by housing all essential settings under one app.
+
 ---
