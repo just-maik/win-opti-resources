@@ -51,4 +51,10 @@ Czkawka is a multi-functional tool written in Rust that helps you find duplicate
 #### [🛠️ BloatyNosy](https://github.com/builtbybel/BloatyNosy)
 BloatyNosy aims to streamline your Windows 11 experience by housing all essential settings under one app.
 
+#### [📦 Windows_Optimisation_Pack](https://github.com/Marvin700/Windows_Optimisation_Pack)
+This pack includes various scripts and tools aimed at optimizing and improving the performance of Windows systems.
+
+#### [⚙️ Optimizer](https://github.com/hellzerg/optimizer)
+Optimizer is an advanced system optimization tool that enables you to tweak and enhance various settings in Windows for improved performance and security.
+
 ---
