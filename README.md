@@ -3,11 +3,11 @@
 ## Table of Contents
 1. [Introduction](#introduction-)
 2. [Debloating Tools](#%EF%B8%8F-debloating-tools)
-3. [Privacy Protection](#privacy-protection-)
-4. [Gaming Optimization](#gaming-optimization-)
-5. [System Cleaning](#system-cleaning-)
-6. [Multi-Function Tools](#multi-function-tools-)
-7. [System Customization](#system-customization-)
+3. [Privacy Protection](#%EF%B8%8F-privacy-protection)
+4. [Gaming Optimization](#%EF%B8%8F-gaming-optimization)
+5. [System Cleaning](#%EF%B8%8F-system-cleaning)
+6. [Multi-Function Tools](#%EF%B8%8F-multi-function-tools)
+7. [System Customization](#%EF%B8%8F-system-customization)
 
 ---
 
@@ -54,7 +54,7 @@ Safing provides a privacy network layer aiming to protect you from surveillance 
 
 ---
 
-### Gaming Optimization 🎮
+## 🎮 Gaming Optimization 
 
 #### [🎮 Windows10GamingFocus](https://github.com/DaddyMadu/Windows10GamingFocus)
 Focuses on optimizing Windows 10 for a better gaming experience.
