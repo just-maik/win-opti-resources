@@ -107,6 +107,8 @@ This pack includes various scripts and tools aimed at optimizing and improving t
 #### [🎵 Melody for Windows](https://github.com/ionuttbara/melody_windows)
 Melody is a tool aimed at automating and simplifying the setup of a fresh Windows installation, from installing drivers to setting up software.
 
+#### [🔍 Sysinternals Live](https://live.sysinternals.com/)
+Sysinternals Live is an official Microsoft repository of advanced system utilities and technical resources. It's aimed at helping you manage, diagnose, troubleshoot, and monitor Windows systems.
 
 ---
 
