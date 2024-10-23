@@ -95,6 +95,9 @@ A utility for installing programs, tweaks, fixes, and updates on Windows systems
 #### [⚙️ Optimizer](https://github.com/hellzerg/optimizer)
 Optimizer is an advanced system optimization tool that enables you to tweak and enhance various settings in Windows for improved performance and security.
 
+#### [🔒 Privacy.Sexy](https://privacy.sexy/)
+Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
+
 #### [🛠️ Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat)
 Automates recommended configurations for optimizing and securing Windows 10 and 11.
 
