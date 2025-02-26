@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction-📝)
-2. [Getting Started: Important Considerations](#getting-started-important-considerations-⚠️)
+1. [Introduction](#introduction-)
+2. [Getting Started](#getting-started-)
 3. [System Optimization & Debloating](#-system-optimization--debloating)
 4. [Privacy & Security Tools](#-privacy--security-tools)
 5. [Disk & File Management](#-disk--file-management)
@@ -19,7 +19,7 @@ This is a curated list of open-source, freeware, and notable tools for optimizin
 
 ---
 
-### Getting Started: Important Considerations ⚠️
+### Getting Started 🚀
 
 Before using any of these tools, keep the following in mind:
 
@@ -29,7 +29,7 @@ Before using any of these tools, keep the following in mind:
 
 ---
 
-## 🚀 System Optimization & Debloating
+## ⚡ System Optimization & Debloating
 
 *Tools for improving system performance, removing bloatware, and streamlining Windows.*
 
