@@ -26,6 +26,9 @@ Allows you to control which functions in Windows 10/11 you choose to use and how
 #### [🛠️ Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10)
 A collection of scripts for debloating and "making Windows great again."
 
+#### [🛠️ Win11Debloat](https://github.com/Raphire/Win11Debloat)
+A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
+
 #### [🛡️ Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools)
 Customizes, debloats, and improves privacy, performance, and system responsiveness on Windows 10+.
 
@@ -54,6 +57,8 @@ SimpleWall is a simple tool to configure the Windows Filtering Platform (WFP), o
 #### [🔐 Safing](https://safing.io/)
 Safing provides a privacy network layer aiming to protect you from surveillance and cyber threats, while ensuring a fast and reliable internet connection.
 
+#### [📊 OFGB](https://github.com/xM4ddy/OFGB)
+GUI Tool To Remove Ads From Various Places Around Windows 11
 
 ---
 
