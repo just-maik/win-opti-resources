@@ -34,8 +34,6 @@ body:
     attributes:
       label: Issue Description
       description: Provide a clear description of the problem
-    validations:
-      required: true
 
   - type: dropdown
     id: suggested_action
