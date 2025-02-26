@@ -37,17 +37,20 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
+  - type: dropdown
     id: suggested_action
     attributes:
       label: Suggested Action
       description: What action do you recommend?
+      multiple: false
       options:
-        - label: Update Link
-        - label: Update Description
-        - label: Add Warning Note or Deprecation Notice
-        - label: Remove from List
-        - label: Replace with Alternative
+        - Update Link
+        - Update Description
+        - Add Warning Note or Deprecation Notice
+        - Remove from List
+        - Replace with Alternative
+    validations:
+      required: true
 
   - type: input
     id: alternative_tool
