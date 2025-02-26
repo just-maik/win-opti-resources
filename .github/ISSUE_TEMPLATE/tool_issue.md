@@ -26,7 +26,7 @@ assignees: ''
 <!-- What action do you recommend? -->
 - [ ] Update Link
 - [ ] Update Description
-- [ ] Add Warning Note
+- [ ] Add Warning Note or Deprecation Notice
 - [ ] Remove from List
 - [ ] Replace with Alternative (please suggest below)
 
