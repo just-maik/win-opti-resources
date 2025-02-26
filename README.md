@@ -15,7 +15,7 @@
 
 ### Introduction 📝
 
-This is a curated list of open-source, freeware, and notable tools for optimizing, debloating, customizing, and securing Windows 10 & 11. These tools can help you remove unnecessary components, improve system performance, enhance privacy, and tailor your Windows experience to your specific needs. Always create a system restore point or backup before making major changes to your system!
+This is a curated list of open-source, freeware, and notable tools for optimizing, debloating, customizing, and securing Windows 10 & 11. These tools can help you remove unnecessary components, improve system performance, enhance privacy, and tailor your Windows experience to your specific needs.
 
 ---
 
