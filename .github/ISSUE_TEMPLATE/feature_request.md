@@ -11,7 +11,7 @@ assignees: ''
 **Tool Name**: 
 **Source Link**: 
 **Suggested Emoji**: 
-**Category**: <!-- Choose from: Debloating Tools, Privacy Protection, Gaming Optimization, System Cleaning, Multi-Function Tools, System Customization -->
+**Category**:
 
 ## Tool Description
 <!-- Provide a clear and concise description of what the tool does (1-2 sentences) -->
