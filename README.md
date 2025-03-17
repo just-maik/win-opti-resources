@@ -54,6 +54,9 @@ A collection of scripts for removing unwanted components and improving the Windo
 #### [🛠️ Win11Debloat](https://github.com/Raphire/Win11Debloat)
 A PowerShell script to remove pre-installed apps, disable telemetry, and perform other modifications for both Windows 10 and 11.
 
+#### [🛠️ Win11Debloat](https://github.com/Raphire/Win11Debloat)
+A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
+
 #### [🛡️ Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools)
 Customizes, debloats, and improves system responsiveness on Windows 10+ by removing unnecessary components.
 

@@ -1,0 +1,67 @@
+name: Tool Addition Request
+description: Suggest a new tool to be added to the collection
+title: "[TOOL] "
+labels: ["enhancement"]
+assignees: []
+body:
+  - type: input
+    id: tool_name
+    attributes:
+      label: Tool Name
+      description: The name of the tool you want to add
+      placeholder: e.g. Windows Optimizer Pro
+    validations:
+      required: true
+
+  - type: input
+    id: source_link
+    attributes:
+      label: Source Link
+      description: Link to the tool's source/download page
+      placeholder: https://example.com/tool
+    validations:
+      required: true
+
+  - type: input
+    id: suggested_emoji
+    attributes:
+      label: Suggested Emoji
+      description: Suggest an emoji to represent this tool
+      placeholder: "e.g. 🔧"
+
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: Which category should this tool be listed under?
+      placeholder: e.g. System Optimization
+    validations:
+      required: true
+
+  - type: textarea
+    id: tool_description
+    attributes:
+      label: Tool Description
+      description: Provide a clear and concise description of what the tool does (1-2 sentences)
+      placeholder: Describe what the tool does and its main benefits
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: tool_details
+    attributes:
+      label: Tool Details
+      description: Additional information about the tool
+      options:
+        - label: Open Source
+        - label: Free to Use
+        - label: Compatible with Windows 10
+        - label: Compatible with Windows 11
+        - label: Active Development/Maintenance
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Information
+      description: Add any other relevant information about the tool
+      placeholder: Other features, requirements, or notable aspects of the tool

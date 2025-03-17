@@ -1,0 +1,72 @@
+name: Tool Issue Report
+description: Report a problem with a tool listed in the collection
+title: "[ISSUE] "
+labels: ["bug"]
+assignees: []
+body:
+  - type: input
+    id: tool_name
+    attributes:
+      label: Tool Name
+      description: Identify the tool that has an issue
+      placeholder: e.g. Windows Debloater
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue Type
+      description: Select the type of issue you're reporting
+      multiple: false
+      options:
+        - Broken Link
+        - Outdated Information
+        - Compatibility Problem
+        - Security Concern
+        - No Longer Maintained
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: Issue Description
+      description: Provide a clear description of the problem
+
+  - type: dropdown
+    id: suggested_action
+    attributes:
+      label: Suggested Action
+      description: What action do you recommend?
+      multiple: false
+      options:
+        - Update Link
+        - Update Description
+        - Add Warning Note or Deprecation Notice
+        - Remove from List
+        - Replace with Alternative
+    validations:
+      required: true
+
+  - type: input
+    id: alternative_tool
+    attributes:
+      label: Alternative Tool Suggestion
+      description: If you suggested replacing with an alternative, please specify
+      placeholder: e.g. Better Windows Tool
+
+  - type: textarea
+    id: reference_links
+    attributes:
+      label: Reference Links
+      description: Provide any relevant links that support this issue
+      placeholder: https://example.com
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain the issue
+      placeholder: Drag and drop images here
