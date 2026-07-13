@@ -1,0 +1,40 @@
+name: Update GitHub badges
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-github-badges-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Update badges
+        run: bun run scripts/src/update_github_badges.ts
+
+      - name: Commit badge changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "All GitHub badges are present."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(badges): add missing badges"
+          git push
