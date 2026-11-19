@@ -290,6 +290,14 @@ Open-source cleaner for temporary files, caches, browser data, and other applica
 
 Gaming presets often overlap with the debloat tools above. Test frame time, latency, stability, power use, and required features before keeping a change.
 
+### [LeanFPS](https://github.com/Jamailar/leanfps)
+
+<!-- github-project-badges:start -->
+[![Last release](https://img.shields.io/github/release-date/Jamailar/leanfps?label=last%20release)](https://github.com/Jamailar/leanfps/releases/latest) [![Last commit](https://img.shields.io/github/last-commit/Jamailar/leanfps)](https://github.com/Jamailar/leanfps/commits) [![Contributors](https://img.shields.io/github/contributors/Jamailar/leanfps?label=contributors)](https://github.com/Jamailar/leanfps/graphs/contributors) [![GitHub stars](https://img.shields.io/github/stars/Jamailar/leanfps)](https://github.com/Jamailar/leanfps/stargazers)
+<!-- github-project-badges:end -->
+
+MIT-licensed Rust game optimizer for Windows 10/11 with game detection, per-game and genre settings, and ETW FPS/session measurements. It saves actual prior settings before changes, supports individual undo, restores session changes on game exit, and includes crash recovery. It leaves Defender, Memory Integrity, the firewall, Windows Update, and CPU mitigations unchanged. Free core features have no time limit; an optional one-time Pro edition is available. The current Windows executable is unsigned and needs administrator rights for system changes; Windows build instructions are in the [source repository](https://github.com/Jamailar/leanfps). See the [LeanFPS homepage](https://leanfps.com/), [optimization](https://leanfps.com/optimizations/), and [safety/undo](https://leanfps.com/safety/) documentation. No FPS gains are claimed; this listing has not independently benchmarked the tool.
+
 ### [Intelligent Standby List Cleaner (ISLC)](https://www.wagnardsoft.com/intelligent-standby-list-cleaner-islc)
 
 Monitors available memory and conditionally clears the Windows standby list. It may help specific memory-pressure or stutter cases, but its usefulness is workload-specific and clearing useful cache can cause additional reads.
